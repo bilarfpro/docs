@@ -5,5 +5,5 @@ We use pdoc to generate the documentations.
 To generate the docs, type:
 
 ```
-pdoc pathto/lib_bilagrid.py -o ./ --docformat google --math -t ./doctemplate
+pdoc pathto/lib_bilagrid.py -o ./docs --docformat google --math -t ./doctemplate
 ```
